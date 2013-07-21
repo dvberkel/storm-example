@@ -2,3 +2,4 @@
 .project
 .settings
 target
+src/test/resources/recorded_words.txt
